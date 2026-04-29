@@ -24,6 +24,7 @@ branch performance, and transaction method distribution across 6 major Indian ba
 ![Banking Dashboard](Screenshot 2026-04-29 174559.png)
 
 
+
 ## Skills Demonstrated
 - Data cleaning and transformation in Excel
 - Pivot table creation and analysis
