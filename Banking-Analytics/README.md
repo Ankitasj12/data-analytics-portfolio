@@ -21,7 +21,8 @@ branch performance, and transaction method distribution across 6 major Indian ba
 - Bonus Payments and Refunds from Retailers were the top transaction categories
 
 ## Dashboard Preview
-[Add your screenshot here after uploading it]
+![Banking Dashboard](Screenshot 2026-04-29 174559.png)
+
 
 ## Skills Demonstrated
 - Data cleaning and transformation in Excel
