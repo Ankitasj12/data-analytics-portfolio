@@ -26,12 +26,10 @@ branch performance, and transaction method distribution across 6 major Indian ba
                       (Banking-Analytics/Screenshot 2026-04-29 174747.png)
 ![Excel Dashboards]   (Banking-Analytics/Screenshot 2026-04-29 174836.png)
                       (Banking-Analytics/Screenshot 2026-04-29 175355.png)
+## 🔗 Live Dashboard
+[View on Tableau Public](https://public.tableau.com/app/profile/ankita.jadhav6953/viz/Credit-debitdashboard/Dashboard1?publish=yes)                      
                       
                       
-                       
-
-
-
 ## Skills Demonstrated
 - Data cleaning and transformation in Excel
 - Pivot table creation and analysis
