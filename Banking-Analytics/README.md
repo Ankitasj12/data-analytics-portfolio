@@ -24,6 +24,8 @@ branch performance, and transaction method distribution across 6 major Indian ba
 ![Banking Dashboard](Screenshot 2026-04-29 174559.png)
 ![Power bi Dashboards](Banking-Analytics/Screenshot 2026-04-29 174559.png)
                       (Banking-Analytics/Screenshot 2026-04-29 174747.png)
+![Excel Dashboards]   (Banking-Analytics/Screenshot 2026-04-29 174836.png)
+                      
                       
                        
 
